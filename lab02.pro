@@ -2,11 +2,11 @@ implement main
     open core, file, stdio 
  
 domains 
-    country = string 
-    city = string 
-    capital = string 
-    part = string 
-    population = integer 
+    country = string.
+    city = string. 
+    capital = string. 
+    part = string. 
+    population = integer. 
  
 class facts - geoDb 
     country : (integer Id, country Name, capital Capital, part Part, population Population). 
