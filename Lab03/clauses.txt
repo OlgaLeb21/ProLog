@@ -1,0 +1,94 @@
+%расширенная база фактов
+clauses
+    country(1, "Russia", "Moscow", "Europe/Asia", 146793744).
+    country(2, "USA", "Washington, D.C.", "North America", 331449281).
+    country(3, "China", "Beijing", "Asia", 1440297825).
+    country(4, "Germany", "Berlin", "Europe", 83166711).
+    country(5, "Brazil", "Brasilia", "South America", 213993437).
+    country(6, "Australia", "Canberra", "Australia/Oceania", 25788200).
+    country(7, "South Africa", "Pretoria", "Africa", 59308690).
+    country(8, "India", "New Delhi", "Asia", 1380004385).
+    country(9, "Canada", "Ottawa", "North America", 37742154).
+    country(10, "France", "Paris", "Europe", 65273511).
+    country(11, "Japan", "Tokyo", "Asia", 126476461).
+    country(12, "Mexico", "Mexico City", "North America", 129166028).
+    country(13, "Nigeria", "Abuja", "Africa", 206139587).
+    country(14, "South Korea", "Seoul", "Asia", 51269185).
+    country(15, "Spain", "Madrid", "Europe", 46937060).
+    country(16, "Turkey", "Ankara", "Europe/Asia", 84339067).
+    country(17, "Iran", "Tehran", "Asia", 83992953).
+    country(18, "Argentina", "Buenos Aires", "South America", 45195774).
+    country(19, "Egypt", "Cairo", "Africa", 102334404).
+    country(20, "Saudi Arabia", "Riyadh", "Asia", 34813867).
+
+    city(1, "Moscow", 1).
+    city(2, "Saint Petersburg", 1).
+    city(3, "Novosibirsk", 1).
+    city(4, "Kazan", 1).
+    city(5, "New York City", 2).
+    city(6, "Los Angeles", 2).
+    city(7, "Chicago", 2).
+    city(8, "Houston", 2).
+    city(9, "Beijing", 3).
+    city(10, "Shanghai", 3).
+    city(11, "Hong Kong", 3).
+    city(12, "Taipei", 3).
+    city(13, "Berlin", 4).
+    city(14, "Munich", 4).
+    city(15, "Hamburg", 4).
+    city(16, "Frankfurt", 4).
+    city(17, "São Paulo", 5).
+    city(18, "Rio de Janeiro", 5).
+    city(19, "Salvador", 5).
+    city(20, "Brasília", 5).
+    city(21, "Sydney", 6).
+    city(22, "Melbourne", 6).
+    city(23, "Brisbane", 6).
+    city(24, "Perth", 6).
+    city(25, "Pretoria", 7).
+    city(26, "Cape Town", 7).
+    city(27, "Durban", 7).
+    city(28, "Johannesburg", 7).
+    city(29, "New Delhi", 8).
+    city(30, "Mumbai", 8).
+    city(31, "Bangalore", 8).
+    city(32, "Chennai", 8).
+    city(33, "Ottawa", 9).
+    city(34, "Toronto", 9).
+    city(35, "Montreal", 9).
+    city(36, "Vancouver", 9).
+    city(37, "Paris", 10).
+    city(38, "Lyon", 10).
+    city(39, "Marseille", 10).
+    city(40, "Toulouse", 10).
+    city(41, "Tokyo", 11).
+    city(42, "Mexico City", 12).
+    city(43, "Lagos", 13).
+    city(44, "Seoul", 14).
+    city(45, "Barcelona", 15).
+    city(46, "Istanbul", 16).
+    city(47, "Tehran", 17).
+    city(48, "Córdoba", 18).
+    city(49, "Alexandria", 19).
+    city(50, "Jeddah", 20).
+
+    capital(1, "Moscow", 1).
+    capital(2, "Washington, D.C.", 2).
+    capital(3, "Beijing", 3).
+    capital(4, "Berlin", 4).
+    capital(5, "Brasilia", 5).
+    capital(6, "Canberra", 6).
+    capital(7, "Pretoria", 7).
+    capital(8, "New Delhi", 8).
+    capital(9, "Ottawa", 9).
+    capital(10, "Paris", 10).
+    capital(11, "Tokyo", 11).
+    capital(12, "Mexico City", 12).
+    capital(13, "Abuja", 13).
+    capital(14, "Seoul", 14).
+    capital(15, "Madrid", 15).
+    capital(16, "Ankara", 16).
+    capital(17, "Tehran", 17).
+    capital(18, "Buenos Aires", 18).
+    capital(19, "Cairo", 19).
+    capital(20, "Riyadh", 20)
